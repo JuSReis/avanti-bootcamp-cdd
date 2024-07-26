@@ -1,0 +1,11 @@
+variavel,descrição,tipo,subtipo
+price,preço em USD,quantitativa,contínua
+carat,peso do diamante,quantitativa,contínua
+cut,qualidade do corte,qualitativa,ordinal
+color,cor do diamante ,qualitativa,ordinal
+clarity,uma medida de quão claro é o diamante,qualitativa,ordinal
+x,comprimento em milímetro,quantitativa,contínua
+y,largura em milímetro,quantitativa,contínua
+z,profundidade em milímetro,quantitativa,contínua
+depth,porcentagem total de profundidade,quantitativa,contínua
+table,largura do topo do diamante em relação ao ponto mais largo,quantitativa,contínua
